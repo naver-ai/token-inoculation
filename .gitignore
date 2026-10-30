@@ -1,0 +1,21 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+data/
+models/
+checkpoints/
+eval_results/
+.hf_cache/
+runs/
+wandb/
+*.jsonl
+*.safetensors
+*.npy
+!assets/*.npy
+.DS_Store
+
+# Review-process documents; they live in the paper repo
+openreview_state_*.txt
+rebuttal_*.md

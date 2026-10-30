@@ -1,0 +1,9 @@
+Token Inoculation
+Copyright (c) 2026-present NAVER Corp.
+
+Licensed under the Apache License, Version 2.0 (the "License").
+See the LICENSE file in this repository for the full license text.
+
+This repository contains no third-party source code. Third-party models and
+datasets are downloaded by the user at run time and are not redistributed here;
+see the "Data" section of README.md for the list and for access requirements.
